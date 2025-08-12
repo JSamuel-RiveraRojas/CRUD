@@ -59,16 +59,14 @@ namespace Modelos
         {
             SqlConnection con = Conexion.conectar();
 
-            string comando = "Delete from peliculas, where id = @id;";
+            string comando = "DELETE FROM peliculas WHERE id = @id;";
             
             SqlCommand cmd = new SqlCommand(comando, con);
 
             cmd.Parameters.AddWithValue("@id", id);
 
             if (cmd.ExecuteNonQuery() > 0)
-            //este error que se presenta a la hora de borrar no existia al principio ,
-            //cunado agrege el metodo actualizar y el doble clic no se como solucionarlo enserio
-            //ya intente muchas cosas y no funciona nada
+            
             {
                 return true;
 
