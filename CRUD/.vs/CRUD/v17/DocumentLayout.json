@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Salem\\OneDrive\\Escritorio\\CRUD-INSERTAR-main\\CRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0C4FEDF-7088-4DB2-8446-5560FCB40E3E}|Modelos\\Modelos.csproj|c:\\users\\salem\\onedrive\\escritorio\\crud-insertar-main\\crud\\modelos\\conexiondb\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0C4FEDF-7088-4DB2-8446-5560FCB40E3E}|Modelos\\Modelos.csproj|solutionrelative:modelos\\conexiondb\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1E96575-9F36-4207-8E5C-521DE404EB71}|Crud\\Vistas.csproj|c:\\users\\salem\\onedrive\\escritorio\\crud-insertar-main\\crud\\crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1E96575-9F36-4207-8E5C-521DE404EB71}|Crud\\Vistas.csproj|solutionrelative:crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1E96575-9F36-4207-8E5C-521DE404EB71}|Crud\\Vistas.csproj|c:\\users\\salem\\onedrive\\escritorio\\crud-insertar-main\\crud\\crud\\forms\\frmpeliculas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B1E96575-9F36-4207-8E5C-521DE404EB71}|Crud\\Vistas.csproj|solutionrelative:crud\\forms\\frmpeliculas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1E96575-9F36-4207-8E5C-521DE404EB71}|Crud\\Vistas.csproj|c:\\users\\salem\\onedrive\\escritorio\\crud-insertar-main\\crud\\crud\\forms\\frmpeliculas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1E96575-9F36-4207-8E5C-521DE404EB71}|Crud\\Vistas.csproj|solutionrelative:crud\\forms\\frmpeliculas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0C4FEDF-7088-4DB2-8446-5560FCB40E3E}|Modelos\\Modelos.csproj|c:\\users\\salem\\onedrive\\escritorio\\crud-insertar-main\\crud\\modelos\\peliculas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0C4FEDF-7088-4DB2-8446-5560FCB40E3E}|Modelos\\Modelos.csproj|solutionrelative:modelos\\peliculas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\Salem\\OneDrive\\Escritorio\\CRUD-INSERTAR-main\\CRUD\\Modelos\\ConexionDB\\Conexion.cs",
+              "RelativeDocumentMoniker": "Modelos\\ConexionDB\\Conexion.cs",
+              "ToolTip": "C:\\Users\\Salem\\OneDrive\\Escritorio\\CRUD-INSERTAR-main\\CRUD\\Modelos\\ConexionDB\\Conexion.cs",
+              "RelativeToolTip": "Modelos\\ConexionDB\\Conexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T19:51:37.44Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Salem\\OneDrive\\Escritorio\\CRUD-INSERTAR-main\\CRUD\\Crud\\Program.cs",
+              "RelativeDocumentMoniker": "Crud\\Program.cs",
+              "ToolTip": "C:\\Users\\Salem\\OneDrive\\Escritorio\\CRUD-INSERTAR-main\\CRUD\\Crud\\Program.cs",
+              "RelativeToolTip": "Crud\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T20:08:25.165Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmPeliculas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Salem\\OneDrive\\Escritorio\\CRUD-INSERTAR-main\\CRUD\\Crud\\Forms\\frmPeliculas.cs",
+              "RelativeDocumentMoniker": "Crud\\Forms\\frmPeliculas.cs",
+              "ToolTip": "C:\\Users\\Salem\\OneDrive\\Escritorio\\CRUD-INSERTAR-main\\CRUD\\Crud\\Forms\\frmPeliculas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Crud\\Forms\\frmPeliculas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T20:47:31.671Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmPeliculas.cs",
+              "DocumentMoniker": "C:\\Users\\Salem\\OneDrive\\Escritorio\\CRUD-INSERTAR-main\\CRUD\\Crud\\Forms\\frmPeliculas.cs",
+              "RelativeDocumentMoniker": "Crud\\Forms\\frmPeliculas.cs",
+              "ToolTip": "C:\\Users\\Salem\\OneDrive\\Escritorio\\CRUD-INSERTAR-main\\CRUD\\Crud\\Forms\\frmPeliculas.cs",
+              "RelativeToolTip": "Crud\\Forms\\frmPeliculas.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAIAwwDEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T19:52:13.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Peliculas.cs",
+              "DocumentMoniker": "C:\\Users\\Salem\\OneDrive\\Escritorio\\CRUD-INSERTAR-main\\CRUD\\Modelos\\Peliculas.cs",
+              "RelativeDocumentMoniker": "Modelos\\Peliculas.cs",
+              "ToolTip": "C:\\Users\\Salem\\OneDrive\\Escritorio\\CRUD-INSERTAR-main\\CRUD\\Modelos\\Peliculas.cs",
+              "RelativeToolTip": "Modelos\\Peliculas.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAIAwwEQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T19:47:00.17Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
